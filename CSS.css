@@ -196,14 +196,13 @@ h3 {
     user-select: none;
 }
 
-
-}
 #all {
     text-align: center;
     width: 50%;
     margin: 0 auto;
     font-weight: bold;
 }
+
 .a {
     background: #ff0000;
     border: none;
@@ -214,6 +213,7 @@ h3 {
     margin-right: 8px;
     font-weight: bold;
 }
+
 .b {
     background: #00ff00;
     border: none;
@@ -224,14 +224,17 @@ h3 {
     margin-left: 8px;
     font-weight: bold;
 }
+
 a:link {
     color: #fff;
     text-decoration: none;
 }
+
 a:visited {
     color: #fff;
     text-decoration: none;
 }
+
 a:hover,
 a:active {
     color: #fff;
